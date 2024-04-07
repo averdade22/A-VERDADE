@@ -1,0 +1,58 @@
+@font-face {
+    font-family:Papyrus;
+    src: url(papyrus.ttf);
+}
+@font-face {
+    font-family:ComicSans;
+    src: url(Ldfcomicsansbold-zgma.ttf);
+}
+header{
+    height: auto;
+    background-color: rgb(41, 204, 76);
+    text-align: center;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    font-size: 70px;
+    text-align: center;
+    color: rgb(238, 1, 1);
+    padding-top: 20px;
+    font-family:ComicSans;
+}
+b{
+    color: rgb(255, 0, 0);
+    padding-top: 100px;
+    font-family:Papyrus;
+    font-size: 30px;
+}
+h2{
+    font-family: Papyrus;
+}
+p{
+    padding-bottom: 30px;
+    text-align: center;
+}
+body{
+    background-color: #fdff6e;
+}
+           
+img{
+    height: 250px;
+    width: 250px;
+}
+main{
+       padding-top: 50px;
+    margin: auto;
+        text-align: center;
+}
+
+footer{
+    padding-top: 30px;
+    font-size: 30px;
+    font-family: Papyrus;
+    text-align: center;
+}
+
